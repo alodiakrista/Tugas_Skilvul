@@ -2,6 +2,7 @@
 # TUGAS_SKILVUL
 
 TUGAS LOOP Kak Arief Ditia Faltah
+
 No. 1
 
 Soal 1 meminta kita untuk membuat sebuah program yang dapat menampilkan teks 'User ke - 1 ... User ke - 100' pada setiap baris di halaman HTML menggunakan loop for pada JavaScript. Di dalam loop for, kita menggunakan method document.write() untuk menampilkan teks 'User ke - i' di halaman HTML dan menambahkan tag <br> setelah setiap baris teks untuk membuat baris baru, dimana nilai i dimulai dari 1 hingga 100. Program akan menampilkan teks 'User ke - 1 ... User ke - 100' pada setiap baris di halaman HTML ketika program dijalankan,
